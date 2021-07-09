@@ -3,10 +3,10 @@ import csv
 import time
 
 #Twitter API credentials
-consumer_key = "cFUoFRx22fyI4ljTcLxySO27r"
-consumer_secret = "xl04xe4916p2FUIUeRefzNLgzKPyU1Cb8poRoHmUTex9UICAcM"
-access_key = "2586611642-mpSB3lluT2IKiNBDAmCzcO1CFoxwmmmT4Eivdgr"
-access_secret = "Saj2QHWnH3DNr9vUhatcOl2hgmprC7i7wdsuCGXPKyem4"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 def get_all_tweets(screen_name):
